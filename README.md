@@ -1,6 +1,6 @@
 # GatorTaxi: COP5536 Project
 
-Course Project for COP5536 - Advanced Data Structure at Fall 2023 UF
+Course Project for COP5536 - Advanced Data Structure at Spring 2023 UF
 
 - Problem Statement<br>
 
