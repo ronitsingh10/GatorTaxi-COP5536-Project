@@ -45,8 +45,7 @@ The needed operations are
    the lowest rideCost(ties are broken by selecting the ride with the lowest tripDuration) is selected (Root
    node in min heap). When no rides remain, return a message “No active ride requests”.
 
-- Usage(In cmd)
-
+- Usage
 ```
 1. run "make"
 2. ./gatorTaxi <inputfile>
